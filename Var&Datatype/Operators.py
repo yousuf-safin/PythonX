@@ -37,3 +37,7 @@ print("True and False",False and False)
 
 print(not(True))
 print(not(False))
+
+#left shift
+b<<=2
+print(b)

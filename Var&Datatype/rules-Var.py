@@ -10,3 +10,9 @@ _yas = 56
 #     print("equal")
 # else:
 #     print("not equal")
+
+b=3
+b<<=3
+print(b)
+c=4
+print(c>>2)
