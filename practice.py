@@ -1,18 +1,24 @@
-a=3
-b=4
-print(a+b)
-print(b%a)
+# a=3
+# b=4
+# print(a+b)
+# print(b%a)
 
 
 
-# z=int(input("Enter a Number :"))
-# print(type(z))
+# # z=int(input("Enter a Number :"))
+# # print(type(z))
 
-# comparison
-print(a>b)
+# # comparison
+# print(a>b)
 
-x= int(input("Enter a Number :"))
-y= int(input("Enter a Number :"))
-r= x+y
-print("Avg is",r/2)
-print("Square of a number",x*x)
+# x= int(input("Enter a Number :"))
+# y= int(input("Enter a Number :"))
+# r= x+y
+# print("Avg is",r/2)
+# print("Square of a number",x*x)
+
+m= input("Enter a Satring :")
+if "  " in m:
+    print("Double Space detected")
+else:
+    print("No Double Space Detected")
