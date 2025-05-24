@@ -27,3 +27,12 @@ else:
 
 
 print(f'"Good Girl is {m}"')
+
+letter='''
+Dear, <Name>
+You are selected!
+<Date>
+'''
+letter=letter.replace("<Name>","Yousuf")
+letter=letter.replace("<Date>","Today")
+print(letter)
