@@ -20,5 +20,10 @@
 m= input("Enter a Satring :")
 if "  " in m:
     print("Double Space detected")
+    corct= m.replace("  "," ")
+    print(corct)
 else:
     print("No Double Space Detected")
+
+
+print(f'"Good Girl is {m}"')
