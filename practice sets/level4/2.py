@@ -1,10 +1,10 @@
 Number= []
-f1 = input("Enter Numbers for students 1 :")
-f2 = input("Enter Numbers for students 2 :")        
-f3 = input("Enter Numbers for students 3 :")
-f4 = input("Enter Numbers for students 4 :")
-f5 = input("Enter Numbers for students 5 :")
-f6 = input("Enter Numbers for students 6 :")
+f1 = int(input("Enter Numbers for students 1 :"))
+f2 = int(input("Enter Numbers for students 2 :"))
+f3 = int(input("Enter Numbers for students 3 :"))
+f4 = int(input("Enter Numbers for students 4 :"))
+f5 = int(input("Enter Numbers for students 5 :"))
+f6 = int(input("Enter Numbers for students 6 :"))
 
 Number.append(f1)
 Number.append(f2)
