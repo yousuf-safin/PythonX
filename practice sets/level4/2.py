@@ -1,0 +1,16 @@
+Number= []
+f1 = input("Enter Numbers for students 1 :")
+f2 = input("Enter Numbers for students 2 :")        
+f3 = input("Enter Numbers for students 3 :")
+f4 = input("Enter Numbers for students 4 :")
+f5 = input("Enter Numbers for students 5 :")
+f6 = input("Enter Numbers for students 6 :")
+
+Number.append(f1)
+Number.append(f2)
+Number.append(f3)
+Number.append(f4)
+Number.append(f5)
+Number.append(f6)
+Number.sort()
+print(Number)
