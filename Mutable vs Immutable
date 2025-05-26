@@ -1,0 +1,30 @@
+🔁 Mutable Objects
+
+Mutable objects can be changed after creation — their content (like elements or attributes) can be modified.
+
+✅ Examples of Mutable objects:
+list
+
+dict (dictionary)
+
+set
+
+bytearray
+
+
+🚫 Immutable Objects
+
+Immutable objects cannot be changed after creation. If you try to modify them, Python creates a new object.
+
+❌ Examples of Immutable objects:
+int
+
+float
+
+str (string)
+
+tuple
+
+bool
+
+
