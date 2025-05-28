@@ -36,3 +36,6 @@ You are selected!
 letter=letter.replace("<Name>","Yousuf")
 letter=letter.replace("<Date>","Today")
 print(letter)
+
+f= input("My Name : ")
+print("My name is",f)
