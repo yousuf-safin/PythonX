@@ -7,3 +7,6 @@ marks={
 print(marks.items())
 print(marks.keys())
 print(marks.values())
+
+marks.update({"Yousuf":100, "Shimu":80})
+print(marks)
