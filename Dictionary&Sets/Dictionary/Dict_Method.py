@@ -12,3 +12,6 @@ marks.update({"Yousuf":100, "Shimu":80})
 print(marks)
 print(marks.get("Kabila"))
 print(marks.get(0))
+
+# .get gives me None
+# [] gives me error
