@@ -5,5 +5,5 @@ marks={
     0:"Liran"
 }
 print(marks.items())
-# print(marks.keys())
+print(marks.keys())
 # print(marks.values())
