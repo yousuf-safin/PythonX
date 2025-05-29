@@ -10,3 +10,5 @@ print(marks.values())
 
 marks.update({"Yousuf":100, "Shimu":80})
 print(marks)
+print(marks.get("Kabila"))
+print(marks.get(0))
