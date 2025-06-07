@@ -4,4 +4,4 @@ s.add(69)
 print(s)
 s.remove("Hamza")
 print(s)
-e= set() #empty set
+e= set(s) #empty set
