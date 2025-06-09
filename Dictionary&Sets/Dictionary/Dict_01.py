@@ -6,5 +6,5 @@ marks={
     "List":[2,32,5,44,67]
 }
 print(marks,type(marks))
-print(marks["Imu"])
+print(marks["Imu>>"])
 print(marks["List&tuples"])
