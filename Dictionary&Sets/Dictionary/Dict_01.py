@@ -7,4 +7,4 @@ marks={
 }
 print(marks,type(marks))
 print(marks["Imu>>"])
-print(marks["List&tuples"])
+print(marks["List and tuples"])
